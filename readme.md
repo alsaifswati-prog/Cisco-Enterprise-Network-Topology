@@ -28,7 +28,7 @@ This topology is designed to demonstrate how an organization can separate depart
 
 ## Project Image
 
-![Cisco Enterprise Network Topology](cisco-enterprise-network-topology.png)
+![Cisco Enterprise Network Topology](demonstration)
 
 ## Objectives
 
